@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **nothing**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **nothing**
 
 <p align="left">
 </p>
