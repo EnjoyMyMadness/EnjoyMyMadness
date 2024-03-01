@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">A hobby developer from germany</h3>
+<h3 align="center">A developer from germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enjoymymadness&label=Profile%20views&color=0e75b6&style=flat" alt="enjoymymadness" /> </p>
 
