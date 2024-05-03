@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enjoymymadness&label=Profile%20views&color=0e75b6&style=flat" alt="enjoymymadness" /> </p>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **something secret for BedrockHub**
 
-- 🌱 I’m currently learning **nothing**
+- 🌱 I’m currently learning **C++**
 
 <p align="left">
 </p>
